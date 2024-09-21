@@ -1,0 +1,88 @@
+.userImage{
+    height: 100vh;
+    width: 500px;
+    min-width: 45vw;
+    background-image: url('/public/assets/OtherImage/Frame\ 45.svg')
+    }
+
+.userImage img{
+    height: 600px;
+    width: 350px;
+    margin-top: 20%;
+    margin-left: 10%;
+    max-width: 80vh;
+    min-width: 40vw;
+    overflow: hidden;
+    }
+
+.userdetail{
+    height: 100vh;
+    width: 400px;
+    max-width: 45vw;
+    margin-left: 10%;
+    margin-top: 10%;
+    overflow: hidden;
+
+    
+}
+
+.dec{
+
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+}
+
+.pro{
+    
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: #D5B0CF;
+
+}
+
+.userdetail h1{
+
+font-family: Poppins;
+font-size: 32px;
+font-weight: 500;
+line-height: 40px;
+text-align: left;
+color: #111827;
+
+
+    
+}
+
+.users{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+
+.Social-link{
+    display: flex;
+    gap: 20px;
+}
+
+.but1{
+    margin-top: 10%;
+    width: Fixed (212px)px;
+height: Hug (44px)px;
+top: 487px;
+left: 441px;
+gap: 8px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
+padding: 10px;
+color: white;
+background: #BB8DB7;
+
+}
